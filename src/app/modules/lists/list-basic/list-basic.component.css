@@ -1,0 +1,25 @@
+.underLined {
+    color:purple;
+    border-bottom: 2px solid pink;
+}
+.big {
+  font-size: 2rem;
+}
+
+.productos{
+  
+  background-color: blue;
+  color: white;
+  margin: 2px;
+  padding: 2px;
+  text-align: center;
+}
+
+.productosInpar{
+  
+  background-color: red;
+  color: white;
+  margin: 2px;
+  padding: 2px;
+  text-align: center;
+}
